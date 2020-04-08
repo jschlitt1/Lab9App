@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Homework9App;assembly=Homework9App"
+             x:Class="Homework9App.MainPage">
+    <NavigationPage Title="Intro">
+        <x:Arguments>
+            <local:IntroPage />
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Age">
+        <x:Arguments>
+            <local:AgePage />
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Credits">
+        <x:Arguments>
+            <local:CreditPage />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

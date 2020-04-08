@@ -1,0 +1,17 @@
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\Homework9App.csprojAssemblyReference.cache
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\AgePage.xaml.g.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\CreditPage.xaml.g.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\IntroPage.xaml.g.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\Homework9App.AssemblyInfoInputs.cache
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\Homework9App.AssemblyInfo.cs
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\Homework9App.dll
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\ref\Homework9App.dll
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\Homework9App.pdb
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\bin\Debug\netstandard2.0\Homework9App.deps.json
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\bin\Debug\netstandard2.0\Homework9App.dll
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\bin\Debug\netstandard2.0\ref\Homework9App.dll
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\bin\Debug\netstandard2.0\Homework9App.pdb
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\charg\source\repos\Homework9App\Homework9App\Homework9App\obj\Debug\netstandard2.0\TermsPage.xaml.g.cs
